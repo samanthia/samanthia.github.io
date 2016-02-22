@@ -1,0 +1,78 @@
+/*
+  Built Mobile First: All Generic sizing and layouts are placed in main part of CSS. 
+  All sizing and layout changes specific to screen sizes is down in media-query area.
+  All color based things are seperate to allow for tweaking later out.
+*/
+
+/**********************************
+GENERAL
+***********************************/
+.article_image{
+height:150px;
+width: 150px;
+  
+}
+.copyright{
+  color:#18B7E8;
+  font-weight:italic;
+}
+
+.statement{
+  color:#FF1AAE;
+  font-weight:bold;
+  }
+
+.art{
+  color:#FF1B1A;
+  font-weight:bold;
+}
+
+body{
+  color:#FFB31A;
+}
+
+.knowledge{
+  color:#A01AFF;
+}
+/**********************************
+NAVIGATION 
+***********************************/
+
+
+
+/**********************************
+HEADER
+***********************************/
+h2{
+  text-align:center;
+}
+/**********************************
+MAIN CONTENT
+***********************************/
+
+
+/**********************************
+FOOTER - Layout and Sizing
+***********************************/
+
+
+/**********************************
+PAGE: _______
+***********************************/
+
+
+
+/**********************************
+FONTS
+***********************************/
+
+
+
+/**********************************
+COLORS and BACKGROUNDS
+Color 1:
+Color 1:
+Color 1:
+Color 1:
+Color 1:
+***********************************/

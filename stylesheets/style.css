@@ -12,9 +12,19 @@ height:150px;
 width: 150px;
   
 }
+
+p,
+h2{
+  color: black;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-style: italic;
+  
+}
+
+    
 .copyright{
   color:#18B7E8;
-  font-weight:italic;
+  font-style :italic;
 }
 
 .statement{
@@ -34,10 +44,18 @@ body{
 .knowledge{
   color:#A01AFF;
 }
+
+iframe {
+  width:90%;
+  height:800px;
+}
+
+.page_header{
+  color:#FF2120;
+}
 /**********************************
 NAVIGATION 
 ***********************************/
-
 
 
 /**********************************

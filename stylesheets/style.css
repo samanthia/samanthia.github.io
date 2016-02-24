@@ -46,12 +46,20 @@ body{
 }
 
 iframe {
-  width:90%;
+  width:120%;
   height:800px;
 }
 
 .page_header{
   color:#FF2120;
+}
+
+h5{
+  color:violet;
+}
+
+.principal{
+  color:red;
 }
 /**********************************
 NAVIGATION 
